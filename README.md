@@ -40,9 +40,9 @@ Sensors libraries:
 
 Output from script will appear in terminal.
 
+##
 ### Publication
 L. Ngwira, M. M. Merlec, Y. K. Lee and H. P. In, "[Towards Context-Aware Smart Contracts for Blockchain IoT Systems](https://ieeexplore.ieee.org/document/9620961)," 2021 International Conference on Information and Communication Technology Convergence (ICTC), 2021, pp. 82-87, doi: 10.1109/ICTC52510.2021.9620961.
-
 
 ### iBELab - Intelligent Blockchain Engineering Lab.
 https://ibel.korea.ac.kr/ - Korea University
